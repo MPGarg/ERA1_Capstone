@@ -2,7 +2,7 @@
 
 ## Pretraining of Language Model Microsoft
 
-Large language model can be trained is trained from scratch and loss has reduced from 11 to range of 6. This shows if we apply more resources (GPU time :) ) and train further it can learn even more.
+Large language model is trained from scratch and loss has reduced from 11 to range of 6. This shows if we apply more resources (GPU time :) ) and train further it can learn even more.
 
 ### Large Language Model Microsoft-phi-1.5 pre-trained from scratch on NVIDIA-A100 40GB GPU.
 
