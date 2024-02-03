@@ -11,5 +11,4 @@ if not bool(_LIGHTNING_AVAILABLE):
         f" pip uninstall -y lightning; pip install -r requirements.txt\n{str(_LIGHTNING_AVAILABLE)}"
     )
 
-
 __all__ = ["GPT", "Config", "Tokenizer"]
