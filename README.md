@@ -77,11 +77,18 @@ At around 20k step (end of training):
 
 ![image](https://github.com/MPGarg/ERA1_Capstone/assets/120099863/a2ab0889-5e49-4cca-9692-05a7029fe0c4)
 
+#### GPU Usage during training:
+
+![image](https://github.com/MPGarg/ERA1_Capstone/assets/120099863/c454ce3d-dccf-40cd-87a9-d2870b845002)
+
 ## Deployment of Multi-modal LLM
 
-It is hosted on Hugging Face on followin link: [link](https://huggingface.co/spaces/MadhurGarg/multi-modalLLM)
+It is hosted on Hugging Face on following link (CPU Basic): [link](https://huggingface.co/spaces/MadhurGarg/multi-modalLLM)
 
+When tested with text as input in combination with uploaded image:
 
 ![image](https://github.com/MPGarg/ERA1_Capstone/assets/120099863/62c58ace-cbaf-4a89-b383-02622c9d9be0)
+
+When tested with audio as input in combination with uploaded image:
 
 
