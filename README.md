@@ -91,4 +91,7 @@ When tested with text as input in combination with uploaded image:
 
 When tested with audio as input in combination with uploaded image:
 
+![image](https://github.com/MPGarg/ERA1_Capstone/assets/120099863/434fda1f-8e43-4900-b458-64d89fbdf3bd)
+
+Audio here is: "Explain what is happening"
 
