@@ -79,7 +79,7 @@ At around 20k step (end of training):
 
 ## Deployment of Multi-modal LLM
 
-It is hosted on Hugging Face on followin link: [link]https://huggingface.co/spaces/MadhurGarg/multi-modalLLM
+It is hosted on Hugging Face on followin link: [link](https://huggingface.co/spaces/MadhurGarg/multi-modalLLM)
 
 
 ![image](https://github.com/MPGarg/ERA1_Capstone/assets/120099863/62c58ace-cbaf-4a89-b383-02622c9d9be0)
