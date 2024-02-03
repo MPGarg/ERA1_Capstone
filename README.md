@@ -26,6 +26,15 @@ Minimum loss achieved = 5.4183
 
 ### Projection Layer Training with COCO 2017 dataset
 
+* Resources used to train: NVIDIA-A100 40GB GPU (Google colab)
+* Duration of training: 4 hours (approx)
+* Loss started at around 7.0047 and after 10,000 steps (end of training) it was around 4.4909
+
+Loss graph for these steps:
+
 ![image](https://github.com/MPGarg/ERA1_Capstone/assets/120099863/3c43a7a6-39f8-4d00-8575-8a3813d3de62)
 
+Training log at around 10k step:
+
+![image](https://github.com/MPGarg/ERA1_Capstone/assets/120099863/595943c6-bac5-4229-83f8-7b934914957d)
 
